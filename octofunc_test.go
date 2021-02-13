@@ -1,4 +1,4 @@
-package goprojecttmpl
+package octofunc
 
 import (
 	"testing"
